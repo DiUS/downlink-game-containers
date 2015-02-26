@@ -1,2 +1,2 @@
 FROM silarsis/container
-ADD motd /etc/motd
+ADD passwd.txt /var/downlink/passwd.txt

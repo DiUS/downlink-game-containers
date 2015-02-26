@@ -1,5 +1,7 @@
 level1:
   build: level1
+  links:
+    - level2
   ports:
     - "13372:22"
 

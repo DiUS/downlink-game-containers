@@ -1,0 +1,2 @@
+Note to self: do not forget login for level2 is "super", password is
+"secret"
