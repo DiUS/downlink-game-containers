@@ -10,4 +10,6 @@ https://repo.fury.io/silarsis/ - public gem repo containing dshell gem
 https://github.com/downlink/container - github source repo for base container
 https://registry.hub.docker.com/u/silarsis/container/ - public docker repo for base container
 
+Credits:
 
+https://pro.nitrous.io/ - cloud IDE / docker-friendly hosted dev environment
