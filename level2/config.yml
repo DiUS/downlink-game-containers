@@ -1,3 +1,9 @@
-username: downlink
-password: password
+username: super
+password: secret
 rootfs: /var/downlink
+motd: Level 2 access has been granted. Command 'cd' is now available.
+allowed_commands:
+  - ls
+  - cat
+  - ssh
+  - cd

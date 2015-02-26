@@ -1,1 +1,6 @@
 rootfs: /var/downlink
+motd: Level 1 access has been granted. Commands 'ls', 'cat' 'ssh' are available.
+allowed_commands:
+  - ls
+  - cat
+  - ssh
