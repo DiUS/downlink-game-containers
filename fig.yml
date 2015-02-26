@@ -1,6 +1,6 @@
 level1:
   build: level1
-  command: /usr/local/bin/dshell
+  ports: "13372:22"
 
 level2:
   build: level2
