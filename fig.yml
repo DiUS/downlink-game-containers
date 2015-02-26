@@ -1,0 +1,6 @@
+level1:
+  build: level1
+  command: /usr/local/bin/dshell
+
+level2:
+  build: level2
