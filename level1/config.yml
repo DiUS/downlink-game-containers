@@ -1,3 +1,7 @@
 username: downlink
 password: password
 rootfs: /var/downlink
+motd: Welcome to level 1. The unlocked commands are ls and cat.
+allowed_commands:
+  - ls
+  - cat
