@@ -1,0 +1,3 @@
+username: downlink
+password: password
+rootfs: /var/downlink
